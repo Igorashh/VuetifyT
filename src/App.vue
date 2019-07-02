@@ -105,7 +105,7 @@
                    dense
                    flat
            >
-             <v-toolbar-title>Footer</v-toolbar-title>
+             <v-toolbar-title>testFooter</v-toolbar-title>
            </v-toolbar>
          </template>
        </v-data-iterator>
